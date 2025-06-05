@@ -9,7 +9,7 @@
 
 I'm a dedicated software developer with hands-on experience building scalable web applications and APIs using Python, Django, and Flask. I’m enthusiastic about solving real-world problems, writing clean code, and continuously learning better ways to design systems.
 
-- 🔧 Currently building a [IEMS](#) with Django, focusing on clean code, timezone-aware scheduling, and testable endpoints.
+- 🔧 Currently building a [IEMS](https://uatiems.mppcb.mp.gov.in/) with Django, focusing on clean code, timezone-aware scheduling, and testable endpoints.
 - 🧠 Preparing for technical interviews: deep-diving into Python, SQL, and system design.
 - 🎓 Bachelor of Engineering (BE), always curious and keen to explore new tech.
 
