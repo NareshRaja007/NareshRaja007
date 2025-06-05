@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Naresh Raja!
 
-🎯 Passionate Python Developer | 💻 Backend Engineer | ⚙️ Django & Flask Enthusiast  
+🎯 Passionate Python Developer | 💻 Backend Engineer | ⚙️ Django & Flask | AI/ML Enthusiast  
 📍 Based in India | 📅 2.6+ years of industry experience
 
 ---
@@ -9,7 +9,7 @@
 
 I'm a dedicated software developer with hands-on experience building scalable web applications and APIs using Python, Django, and Flask. I’m enthusiastic about solving real-world problems, writing clean code, and continuously learning better ways to design systems.
 
-- 🔧 Currently building a [Fitness Studio Booking API](#) with Django, focusing on clean code, timezone-aware scheduling, and testable endpoints.
+- 🔧 Currently building a [IEMS](#) with Django, focusing on clean code, timezone-aware scheduling, and testable endpoints.
 - 🧠 Preparing for technical interviews: deep-diving into Python, SQL, and system design.
 - 🎓 Bachelor of Engineering (BE), always curious and keen to explore new tech.
 
@@ -75,7 +75,7 @@ Razorpay, Keycloak, MinIO, Redis, Git, Docker (basic), Agile methodologies
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nareshraja/)
-- 📧 Email: your_email@example.com *(replace this)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/nareshraja7/)
+- 📧 Email: nandhu.naresh007@gmail.com
 
 Thanks for stopping by! 😊
